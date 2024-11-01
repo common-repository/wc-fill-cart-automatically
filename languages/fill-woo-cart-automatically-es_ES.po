@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fill Cart Automatically for WooCommerce\n"
+"POT-Creation-Date: 2022-11-01 09:19+0100\n"
+"PO-Revision-Date: 2022-11-01 09:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-fill-cart-automatically.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-fill-cart-setting.php:55 admin/class-fill-cart-setting.php:56
+msgid "Fill Cart"
+msgstr "Llenar carrito"
+
+#: admin/class-fill-cart-setting.php:80
+msgid "Configurations to fill carts"
+msgstr "Configuraciones para llenar los carritos"
+
+#: admin/class-fill-cart-setting.php:93
+msgid "Options"
+msgstr "Opciones"
+
+#: admin/class-fill-cart-setting.php:100
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: admin/class-fill-cart-setting.php:157
+msgid "Basic settings"
+msgstr "Ajustes básicos"
+
+#: admin/class-fill-cart-setting.php:164
+msgid "Products that will appear in the cart"
+msgstr "Productos que aparecerán en el carrito"
+
+#: admin/class-fill-cart-setting.php:172
+msgid "Autocomplete user cart through cookie"
+msgstr "Autocompletar el carrito del usuario a través de una cookie"
+
+#: admin/class-fill-cart-setting.php:180
+msgid "Automatically fill cart after X time (in seconds)"
+msgstr "Llenar automáticamente el carrito después de X tiempo (en segundos)"
+
+#: admin/class-fill-cart-setting.php:188
+msgid "Fill cart using a link"
+msgstr "Llenar el carrito con un enlace"
+
+#: admin/class-fill-cart-setting.php:196
+msgid "Fill cart via link"
+msgstr "Llenar el carrito a través del enlace"
+
+#: admin/class-fill-cart-setting.php:205
+msgid "Statistics settings"
+msgstr "Configuraciones de estadísticas"
+
+#: admin/class-fill-cart-setting.php:212
+msgid "Save user statistics"
+msgstr "Guardar las estadísticas de los usuarios"
+
+#: admin/class-fill-cart-setting.php:260
+msgid "Here you can configure how the cart of your store will be filled."
+msgstr "Aquí puede configurar cómo se llenará el carrito de su tienda."
+
+#: admin/class-fill-cart-setting.php:269
+msgid "Here you can see information about user interaction."
+msgstr "Aquí puede ver información sobre la interacción de los usuarios."
+
+#: admin/class-fill-cart-setting.php:353
+msgid ""
+"If you leave this field at 0, it will be given a value of 10 years in seconds"
+msgstr "Si deja este campo en 0, se le dará un valor de 10 años en segundos"
+
+#: admin/class-fill-cart-setting.php:381
+msgid "You have not chosen products"
+msgstr "No ha elegido productos"
+
+#: admin/class-fill-cart-setting.php:384
+msgid ""
+"If you want to customize the fill cart url you just have to add at the end "
+"of the url "
+msgstr ""
+"Si quieres personalizar la url del carrito de la compra sólo tienes que "
+"añadir al final de la url"
+
+#: admin/class-fill-cart-setting.php:385
+msgid "For example: https://www.example.com/sample-page/?fwc_fill_cart=on"
+msgstr "Por ejemplo: https://www.example.com/sample-page/?fwc_fill_cart=on"
+
+#: admin/class-fill-cart-setting.php:397
+msgid "See settings to fill the cart"
+msgstr "Ver los ajustes para llenar el carrito"
+
+#: admin/class-fill-cart-setting.php:397
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-fill-cart-setting.php:447
+msgid "Are you sure you want to clear the data log?"
+msgstr "¿Estás seguro de que quieres borrar el registro de datos?"
+
+#: admin/class-fill-cart-setting.php:467
+msgid "Times the cart has been filled"
+msgstr "Veces que se ha llenado el carrito"
+
+#: admin/class-fill-cart-setting.php:469
+msgid " times"
+msgstr " veces"
+
+#: admin/class-fill-cart-setting.php:470
+msgid "Restart data"
+msgstr "Reiniciar datos"
+
+#: admin/class-fill-cart-setting.php:472 admin/class-fill-cart-setting.php:499
+msgid "Has not been used yet"
+msgstr "Todavía no se ha utilizado"
+
+#: admin/class-fill-cart-setting.php:478
+msgid "Filter users"
+msgstr "Filtrar usuarios"
+
+#: admin/class-fill-cart-setting.php:480
+msgid "All users"
+msgstr "Todos los usuarios"
+
+#: admin/class-fill-cart-setting.php:481
+msgid "Registered users"
+msgstr "Usuarios registrados"
+
+#: admin/class-fill-cart-setting.php:482 admin/class-fill-cart-setting.php:550
+#: admin/class-fill-cart-setting.php:575
+msgid "Anonymous"
+msgstr "Anónimos"
+
+#: admin/class-fill-cart-setting.php:534
+msgid "User name"
+msgstr "Nombre de usuario"
+
+#: admin/class-fill-cart-setting.php:535
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/class-fill-cart-setting.php:536
+msgid "User IP"
+msgstr "IP del usuario"
+
+#: admin/class-fill-cart-setting.php:537
+msgid "Browser information"
+msgstr "Información del navegador"
+
+#. Plugin Name of the plugin/theme
+msgid "Fill Cart Automatically for WooCommerce"
+msgstr "Llenar el Carrito Automáticamente para WooCommerce"
+
+#. Description of the plugin/theme
+msgid ""
+"Autofill carts with previously selected products through a link that is sent "
+"to the user or by default when the user enters the web."
+msgstr ""
+"Rellenar automáticamente los carros con los productos previamente "
+"seleccionados a través de un enlace que se envía al usuario o por defecto "
+"cuando el usuario entra en la web."
+
+#. Author of the plugin/theme
+msgid "Manuel Muñoz Rodríguez"
+msgstr "Manuel Muñoz Rodríguez"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/manolomunoz/"
+msgstr "https://profiles.wordpress.org/manolomunoz/"

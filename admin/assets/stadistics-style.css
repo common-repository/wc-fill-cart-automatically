@@ -1,0 +1,56 @@
+.fwc-information {
+	margin-top: 2em;
+	background: #f7f7f7f7;
+	border: 2px solid black;
+	max-height: 400px;
+    	overflow: scroll;
+}
+
+.fwc-information .row {
+	display: grid;
+	grid-template-columns: 15% 15% 15% 55%;
+	border-bottom: 1px solid black;
+}
+
+.fwc-information .row.last {
+	border-bottom: none;
+}
+
+.fwc-information .row p.title {
+	font-size: 18px;
+	font-weight: bold;
+	background: #c7c7c7;
+}
+
+.fwc-information .row p {
+	padding: 5px;
+	margin: 0px;
+}
+
+.fwc-title {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.fwc-count-times {
+	font-size: 17px;
+	font-weight: 500;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.filter-container {
+	content-visibility: auto;
+}
+
+.filter-container p {
+	font-size: 16px;
+	font-weight: 500;
+	margin-top: 1em;
+	margin-bottom: 10px;
+}
+
+.filter-container .filter {
+	margin: 0px;
+}
